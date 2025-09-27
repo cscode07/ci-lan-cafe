@@ -5,9 +5,9 @@
 :root {
     --primary-font: "Inter", sans-serif;
     --secondary-font: "Macondo", cursive;
-    --primary-color: #191919; /* dark brown */
+    --primary-color: #000000; /* dark brown */
     --secondary-color: #1eff00; /* light brown */
-    --highlight-color: #372c1f; /* blue */
+    --highlight-color: #631024; /* blue */
     --highlight-color-light: #1eff00; /* light blue */
 }
 
