@@ -2,7 +2,7 @@
 
 CI LAN House is a site that promotes a modern gaming café in Limerick, Ireland. The platform is designed for gamers of all levels who are looking for a place to play, compete, and socialise. CI LAN House will be useful for visitors to learn about the services offered, check upcoming esports events, explore the available games, and easily book their spot at the café. 
 
-![Responsice Mockup](https://ui.dev/amiresponsive?url=https://cscode07.github.io/ci-lan-cafe/)
+![Responsice Mockup](https://github.com/cscode07/ci-lan-cafe/blob/main/media/mockup.png)
 
 ## Features 
 
