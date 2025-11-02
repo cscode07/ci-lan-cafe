@@ -44,6 +44,17 @@ CI LAN House is a site that promotes a modern gaming café in Limerick, Ireland.
 
 ![Sign Up](https://github.com/cscode07/ci-lan-cafe/blob/main/media/booking.png)
 
+## User Stories
+-User1: As a visitor, I want to understand the café’s services to decide if it’s suitable for me.
+
+-User2: As a gamer, I want to see which PC and console games are available.
+
+-User3: As an esports fan, I want to view upcoming events.
+
+-User4: As a user, I want clear navigation so I can access any page easily.
+
+-User5: As a customer, I want to be able to book a session online.
+
 
 ## Testing 
 
@@ -57,11 +68,64 @@ CI LAN House is a site that promotes a modern gaming café in Limerick, Ireland.
 - Accessibility
 ![Accessibility](https://github.com/cscode07/ci-lan-cafe/blob/main/media/score.png)
 
+
+### Manual Testing
+
+  Feature	                    Test Performed	                    Expected Outcome	                 Result	        Notes
+ -Navbar links               -Click each navigation link	       -Opens correct page	               ✅ Pass	      — Works across all pages
+ -Hero section	             -Check image and text overlay	     -Displays correctly	               ✅ Pass	      —
+ -Services section	         -Review service cards	             -Cards visible and responsive	     ✅ Pass	      —
+ -Events section	           -Check event display	               -Events load properly	             ✅ Pass	      —
+ -Games (PC/Console)	       -View both game lists	             -Content loads properly	           ✅ Pass	      —
+ -Booking form	             -Open and test fields	             -Fields visible and labelled	       ✅ Pass	      —
+ -Footer	                   -View on all devices	               -Responsive and readable	           ⚠️ Partial	  — Bug on small screens (see below)
+ -Responsiveness	           -Test on multiple devices	         -Layout adapts correctly	           ✅ Pass	      —
+ -External links	           -Click social media icons	         -Opens in new tab	                 ✅ Pass	      — Using target="_blank"
+
+
+###User Story Testing
+
+| User Story                  | Test Action                    | Result                        |
+| ----------------------------| ------------------------------ | ----------------------------- |
+| **User1** – View services   | Navigate to “Services” section | Displays service info clearly |
+| **User2** – View games      | Visit “Games” section          | Games listed and categorised  |
+| **User3** – View events     | Go to “Events”                 | Events displayed correctly    |
+| **User4** – Navigate easily | Use navbar across pages        | Navigation works consistently |
+| **User5** – Book session    | Open “Booking”                 | Form visible and functional   |
+
+
+###Browser Compatibility
+
+Tested successfully on:
+-Chrome 
+-Firefox
+-Edge
+-Safari
+
+ ###Device Responsiveness
+
+Checked using Chrome DevTools:
+-iPhone SE, iPhone 12, Galaxy S8
+-iPad
+-Desktop (1366px, 1440px, 1920px)
+All layouts displayed as expected.
+
+###Known Bugs
+
+-Footer does not stretch to full width on smaller screens.
+It doesn’t scale edge-to-edge with the viewport on mobile devices.
+
+
+ 
 ## Deployment
 
-
-
 The live link can be found here - (https://github.com/cscode07/ci-lan-cafe/settings/pages)
+
+Technologies Used
+-HTML5
+-CSS
+-GitHub Pages
+
 
 
 ## Credits 
