@@ -55,7 +55,7 @@ CI LAN House is a site that promotes a modern gaming café in Limerick, Ireland.
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 - Accessibility
-![Accessibility](https://github.com/cscode07/ci-lan-cafe/blob/main/media/score.png).
+![Accessibility](https://github.com/cscode07/ci-lan-cafe/blob/main/media/score.png)
 
 ## Deployment
 
