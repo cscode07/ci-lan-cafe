@@ -71,16 +71,17 @@ CI LAN House is a site that promotes a modern gaming café in Limerick, Ireland.
 
 ### Manual Testing 
 
-  Feature	                    Test Performed	                    Expected Outcome	                 Result	        Notes
- -Navbar links               -Click each navigation link	       -Opens correct page	               ✅ Pass	      — Works across all pages
- -Hero section	             -Check image and text overlay	     -Displays correctly	               ✅ Pass	      —
- -Services section	         -Review service cards	             -Cards visible and responsive	     ✅ Pass	      —
- -Events section	           -Check event display	               -Events load properly	             ✅ Pass	      —
- -Games (PC/Console)	       -View both game lists	             -Content loads properly	           ✅ Pass	      —
- -Booking form	             -Open and test fields	             -Fields visible and labelled	       ✅ Pass	      —
- -Footer	                   -View on all devices	               -Responsive and readable	           ⚠️ Partial	  — Bug on small screens (see below)
- -Responsiveness	           -Test on multiple devices	         -Layout adapts correctly	           ✅ Pass	      —
- -External links	           -Click social media icons	         -Opens in new tab	                 ✅ Pass	      — Using target="_blank"
+| Feature            | Test Performed               | Expected Outcome             | Result       | Notes                           |
+| ------------------ | ---------------------------- | ---------------------------- | ------------ |-------------------------------- |
+| Navbar links       | Click each navigation link   | Opens correct page           | ✅ Pass     | Works across all pages           |
+| Hero section       | Check image and text overlay | Displays correctly           | ✅ Pass     | —                                |
+| Services section   | Review service cards         | Cards visible and responsive | ✅ Pass     | —                                |
+| Events section     | Check event display          | Events load properly         | ✅ Pass     | —                                |
+| Games (PC/Console) | View both game lists         | Content loads properly       | ✅ Pass     | —                                |
+| Booking form       | Open and test fields         | Fields visible and labelled  | ✅ Pass     | —                                |
+| Footer             | View on all devices          | Responsive and readable      | ⚠️ Partial  | Bug on small screens (see below) |
+| Responsiveness     | Test on multiple devices     | Layout adapts correctly      | ✅ Pass     | —                                |
+| External links     | Click social media icons     | Opens in new tab             | ✅ Pass     | —                                |
 
 
 ### User Story Testing
@@ -94,7 +95,7 @@ CI LAN House is a site that promotes a modern gaming café in Limerick, Ireland.
 | **User5** – Book session    | Open “Booking”                 | Form visible and functional   |
 
 
-###Browser Compatibility
+### Browser Compatibility
 
 Tested successfully on:
 -Chrome 
@@ -102,7 +103,7 @@ Tested successfully on:
 -Edge
 -Safari
 
- ###Device Responsiveness
+ ### Device Responsiveness
 
 Checked using Chrome DevTools:
 -iPhone SE, iPhone 12, Galaxy S8
@@ -110,7 +111,7 @@ Checked using Chrome DevTools:
 -Desktop (1366px, 1440px, 1920px)
 All layouts displayed as expected.
 
-###Known Bugs
+### Known Bugs
 
 -Footer does not stretch to full width on smaller screens.
 It doesn’t scale edge-to-edge with the viewport on mobile devices.
