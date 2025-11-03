@@ -57,6 +57,9 @@ The Booking section will allow the user to reserve a spot at CI LAN House. Users
 
 -User5: As a customer, I want to be able to book a session online.
 
+## Wireframes
+
+https://github.com/cscode07/ci-lan-cafe/blob/main/media/Wireframes0.png
 
 ## Testing 
 
