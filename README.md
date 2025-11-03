@@ -60,6 +60,10 @@ The Booking section will allow the user to reserve a spot at CI LAN House. Users
 ## Wireframes
 
 https://github.com/cscode07/ci-lan-cafe/blob/main/media/Wireframes0.png
+https://github.com/cscode07/ci-lan-cafe/blob/main/media/Wireframes1.png
+https://github.com/cscode07/ci-lan-cafe/blob/main/media/Wireframes2.png
+https://github.com/cscode07/ci-lan-cafe/blob/main/media/Wireframes3.png
+https://github.com/cscode07/ci-lan-cafe/blob/main/media/Wireframes4.png
 
 ## Testing 
 
